@@ -5,6 +5,8 @@ Or simply put, convert "/ to \", or vice versa.
 
 This sw is written in visual basic using Visual Studio 2.15. Later its modified using below version of Sharp Develop.
 
+EXT is copied at path_converter/path_converter/bin/Debug/path_converter.exe
+
 SharpDevelop Version : 4.4.1.9729-7196a277
 
 .NET Version         : 4.0.30319.42000
@@ -12,3 +14,4 @@ SharpDevelop Version : 4.4.1.9729-7196a277
 OS Version           : Microsoft Windows NT 6.2.9200.0
 
 Current culture      : English (India) (en-IN)
+
