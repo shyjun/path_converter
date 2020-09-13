@@ -12,9 +12,3 @@ SharpDevelop Version : 4.4.1.9729-7196a277
 OS Version           : Microsoft Windows NT 6.2.9200.0
 
 Current culture      : English (India) (en-IN)
-
-Running under WOW6432, processor architecture: x86-64
-
-Working Set Memory   : 219976kb
-
-GC Heap Memory       : 63366kb
